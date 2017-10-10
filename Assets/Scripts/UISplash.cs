@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class UISplash : MonoBehaviour
 {
+
     
     void Awake()
     {
-
+        SceneManager.Instacne.SceneLoad("LoginScene");
     }
 
 }
