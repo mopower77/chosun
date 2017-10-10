@@ -162,7 +162,6 @@
     <Compile Include="Assets\NGUI\Scripts\Internal\UIEventListener.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\UIGeometry.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\UINode.cs" />
-    <Compile Include="Assets\NGUI\Scripts\Internal\UIWidget.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\AnimatedAlpha.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\AnimatedColor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\SpringPosition.cs" />
@@ -197,6 +196,7 @@
     <Compile Include="Assets\NGUI\Scripts\UI\UITiledSprite.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+    <Compile Include="Assets\NGUI\Scripts\UI\UIWidget.cs" />
     <Compile Include="Assets\Scripts\SceneManager.cs" />
     <Compile Include="Assets\Scripts\Singleton.cs" />
     <Compile Include="Assets\Scripts\UISplash.cs" />
