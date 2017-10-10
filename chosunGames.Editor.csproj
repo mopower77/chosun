@@ -191,6 +191,10 @@
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+    <None Include="Assets\import\MEDIEVAL_ANIMATIONS_MEGA_PACK_new\2Weapons\2W_motiondata.xml" />
+    <None Include="Assets\import\MEDIEVAL_ANIMATIONS_MEGA_PACK_new\Halberd\Halberd_motiondata.xml" />
+    <None Include="Assets\import\MEDIEVAL_ANIMATIONS_MEGA_PACK_new\Horseman\Horseman_motiondata.xml" />
+    <None Include="Assets\import\MEDIEVAL_ANIMATIONS_MEGA_PACK_new\Wisard&apos;s\Wizard_motiondata.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
